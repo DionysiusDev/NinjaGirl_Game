@@ -2,6 +2,18 @@
 Lua Based platform game demo.
 This demo can be played on Win PC or Android.
 
+This demo includes third party Love 2D libraries which have their own licences included. Please make sure to read the licences for included libraries.
+
+Anim8 
+https://github.com/kikito/anim8
+
+Hump 
+https://github.com/vrld/hump
+
+Simple Tiled Implementation
+https://github.com/karai17/Simple-Tiled-Implementation
+
+
 --------------------To play on win PC follow the instructions below----------------------
 
 This demo platform game requires Love 2D version 11.3 to launch.
